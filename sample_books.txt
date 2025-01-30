@@ -1,0 +1,278 @@
+[
+  {
+    "title": "Rudra's Adventure",
+    "author": "Pranit",
+    "description": "Story of a Funny and courageous kid",
+    "rating": 95
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "A classic tale of self-discovery and following your dreams.",
+    "rating": 90
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A powerful story of racial injustice in the American South.",
+    "rating": 98
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy adventure.",
+    "rating": 97
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel exploring themes of surveillance and control.",
+    "rating": 92
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "description": "A humorous science fiction masterpiece.",
+    "rating": 95
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic romance novel.",
+    "rating": 93
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "A prequel to The Lord of the Rings.",
+    "rating": 96
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "description": "A gothic novel exploring themes of beauty and decadence.",
+    "rating": 91
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A coming-of-age novel about alienation and disillusionment.",
+    "rating": 94
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "description": "A philosophical fable about life and love.",
+    "rating": 98
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "description": "A classic tale of revenge and redemption.",
+    "rating": 97
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A novel exploring themes of wealth, love, and the American Dream.",
+    "rating": 95
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "description": "A psychological thriller exploring themes of guilt and redemption.",
+    "rating": 96
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "description": "A classic adventure novel about a man's obsessive pursuit of a whale.",
+    "rating": 92
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "description": "A gothic romance novel exploring themes of love, revenge, and the supernatural.",
+    "rating": 94
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "description": "A novel about a dog's journey to the wild.",
+    "rating": 90
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "description": "A poignant account of life in hiding during the Holocaust.",
+    "rating": 98
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "description": "An epic poem about the Greek hero Odysseus's journey home after the Trojan War.",
+    "rating": 95
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "description": "A classic American novel about a young boy's journey down the Mississippi River.",
+    "rating": 97
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "description": "An epic poem about a journey through Hell, Purgatory, and Paradise.",
+    "rating": 94
+  },
+  {
+    "title": "The Time Traveler's Mystery",
+    "author": "Ananya Desai",
+    "description": "A thrilling journey through time",
+    "rating": 92
+  },
+  {
+    "title": "Whispers of the Forest",
+    "author": "Rajesh Nair",
+    "description": "A tale of enchanted woods",
+    "rating": 85
+  },
+  {
+    "title": "Beyond the Horizon",
+    "author": "Kavita Sharma",
+    "description": "A journey of dreams and discovery",
+    "rating": 78
+  },
+  {
+    "title": "Rudra's Adventure",
+    "author": "Pranit",
+    "description": "Story of a funny and courageous kid",
+    "rating": 95
+  },
+  {
+    "title": "The Secret Beneath",
+    "author": "Tanvi Kapoor",
+    "description": "A mystery beneath ancient ruins",
+    "rating": 88
+  },
+  {
+    "title": "Chronicles of the Lost City",
+    "author": "Aarav Mishra",
+    "description": "Adventures in a hidden civilization",
+    "rating": 90
+  },
+  {
+    "title": "Winds of Destiny",
+    "author": "Sneha Patel",
+    "description": "An epic fantasy of love and war",
+    "rating": 93
+  },
+  {
+    "title": "Echoes of Eternity",
+    "author": "Manoj Verma",
+    "description": "Whispers from the past that shape the future",
+    "rating": 76
+  },
+  {
+    "title": "Shadows of the Empire",
+    "author": "Aditya Joshi",
+    "description": "A thrilling political drama",
+    "rating": 89
+  },
+  {
+    "title": "Dreamcatcher Diaries",
+    "author": "Pooja Gupta",
+    "description": "The power of dreams unleashed",
+    "rating": 84
+  },
+  {
+    "title": "Path of the Wanderer",
+    "author": "Rohit Mehta",
+    "description": "A spiritual and adventurous journey",
+    "rating": 97
+  },
+  {
+    "title": "Code of the Ancients",
+    "author": "Neha Malhotra",
+    "description": "A hidden code that changes everything",
+    "rating": 86
+  },
+  {
+    "title": "The Sapphire Chronicles",
+    "author": "Deepak Rao",
+    "description": "A magical quest for a lost treasure",
+    "rating": 91
+  },
+  {
+    "title": "Legends of the Forgotten Realm",
+    "author": "Meera Iyer",
+    "description": "The rise of heroes from ancient tales",
+    "rating": 80
+  },
+  {
+    "title": "Mystic Waters",
+    "author": "Aditi Reddy",
+    "description": "Unveiling secrets in the deep blue sea",
+    "rating": 82
+  },
+  {
+    "title": "Flight of the Phoenix",
+    "author": "Kiran Singh",
+    "description": "A daring escape from darkness",
+    "rating": 88
+  },
+  {
+    "title": "Garden of Memories",
+    "author": "Shalini Aggarwal",
+    "description": "A heartwarming tale of love and loss",
+    "rating": 79
+  },
+  {
+    "title": "The Last Eclipse",
+    "author": "Siddharth Malhotra",
+    "description": "A celestial event that changes everything",
+    "rating": 75
+  },
+  {
+    "title": "Chronicles of the Unknown",
+    "author": "Ritika Kapoor",
+    "description": "Exploring the unexplored realms",
+    "rating": 83
+  },
+  {
+    "title": "Whispers of the Night",
+    "author": "Arjun Das",
+    "description": "Uncovering hidden truths in the dark",
+    "rating": 87
+  },
+  {
+    "title": "Guardian of the Sands",
+    "author": "Sanya Narang",
+    "description": "A tale of courage in the desert",
+    "rating": 81
+  },
+  {
+    "title": "Journey of the Brave",
+    "author": "Nikhil Jain",
+    "description": "The ultimate test of valor",
+    "rating": 94
+  },
+  {
+    "title": "Treasures of the Valley",
+    "author": "Isha Kapoor",
+    "description": "An epic hunt for hidden riches",
+    "rating": 77
+  },
+  {
+    "title": "Echoes of the Past",
+    "author": "Kabir Roy",
+    "description": "Haunting voices from forgotten times",
+    "rating": 73
+  },
+  {
+    "title": "Tales of the Infinite Sky",
+    "author": "Poonam Kaur",
+    "description": "Adventures in a limitless world",
+    "rating": 96
+  }
+]
